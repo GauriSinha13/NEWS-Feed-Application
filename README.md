@@ -41,7 +41,7 @@ NewsAPI: Fetches real-time news articles from multiple trusted publishers.
 ## How to Use 🚀
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/news-feed-app.git
+git clone https://github.com/GauriSinha13/News-Feed-Application.git
 cd news-feed-app
 Open index.html in your preferred web browser.
 
