@@ -1,13 +1,18 @@
 ## News Feed Application 📰
 A modern and dynamic news feed web application that displays the latest news across multiple categories like IPL, Finance, Fashion, Technology, and Politics. Built with HTML, CSS, JavaScript, and powered by the NewsAPI, this application offers real-time news updates and a seamless user experience.
 
+
 ## Features ✨
 Category-Based News: The application features a navbar with five categories:
 
 IPL: Get the latest news and updates on the Indian Premier League.
+
 Finance: Stay updated on stock markets, investments, and economic trends.
+
 Fashion: Explore trending styles, celebrity fashion, and seasonal collections.
+
 Technology: Discover the latest advancements in tech, gadgets, and software.
+
 Politics: Read about current political events and government policies.
 
 Clicking on any category dynamically fetches and displays relevant news articles.
@@ -22,11 +27,16 @@ Responsive Design: Fully responsive and optimized for all devices.
 
 User-Friendly UI: A clean and modern design with easy navigation.
 
+
 ## Technologies Used 💻
 HTML: For the structure and layout of the application.
+
 CSS: To style the navbar, cards, and other UI elements, ensuring a responsive and visually appealing design.
+
 JavaScript: Handles dynamic functionality, category switching, and API requests.
+
 NewsAPI: Fetches real-time news articles from multiple trusted publishers.
+
 
 ## How to Use 🚀
 Clone this repository to your local machine:
@@ -44,6 +54,7 @@ const API_KEY = 'YOUR_API_KEY';
 Use the navbar to select categories or search for articles using the search bar.
 
 Click on any news card to read the full article on the publisher's webpage
+
 
 ## Features in Detail 🧩
 Category Navigation:
@@ -63,8 +74,12 @@ Search Functionality:
 Type in any keyword to fetch articles related to that topic.
 
 
+
 ## Future Enhancements 🔧
 Add support for additional categories (e.g., sports, health).
+
 Include pagination for browsing more articles.
+
 Implement a "Save for Later" feature to bookmark articles.
+
 Dark mode for better user experience.
